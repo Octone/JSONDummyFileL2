@@ -75,6 +75,22 @@
 					"PRIORITY":"LOW",
 					"URL":"https://wallpaperscraft.com/image/switzerland_alps_mountains_night_beautiful_landscape_99817_1080x1920.jpg",
 					"TYPE":"IMAGE"
+				},
+				{
+					"DATE":"13/12/2017",
+					"START":"13.00",
+					"END":"14.00",
+					"PRIORITY":"LOW",
+					"URL":"http://www.sample-videos.com/video/mp4/360/big_buck_bunny_360p_10mb.mp4",
+					"TYPE":"VIDEO"
+				},
+				{
+					"DATE":"13/12/2017",
+					"START":"13.00",
+					"END":"14.00",
+					"PRIORITY":"LOW",
+					"URL":"http://www.sample-videos.com/video/mp4/240/big_buck_bunny_240p_5mb.mp4",
+					"TYPE":"VIDEO"
 				}
 			]
 		}
